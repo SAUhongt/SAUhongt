@@ -41,7 +41,15 @@
   "awardList": [
     {
       "award_info": "全国大学生计算机博弈大赛 一等奖",
-      "award_time": "2023"
+      "award_time": "2020"
+    },
+    {
+      "award_info": "全国大学生计算机博弈大赛 一等奖",
+      "award_time": "2021"
+    },
+    {
+      "award_info": "辽宁省创新创新创业大赛 银奖",
+      "award_time": "2021"
     }
   ],
   "workExpList": [],
@@ -71,7 +79,7 @@
     {
       "project_name": "苏拉卡尔塔棋游戏开发",
       "project_role": "团队项目",
-      "project_time": "2023",
+      "project_time": "2021",
       "project_desc": "负责 Qt 界面实现，包括棋盘绘制、棋子交互、对局控制。",
       "project_content": "1. 参与 AI 对弈模块开发，主要负责评估函数优化，提升博弈决策质量。\n2. 项目界面直观，交互体验良好，最终荣获全国大学生计算机博弈大赛一等奖。"
     },
@@ -85,14 +93,14 @@
     {
   "project_name": "垃圾分类识别系统",
   "project_role": "团队项目",
-  "project_time": "2023",
+  "project_time": "2021",
   "project_desc": "面向创新创业竞赛的垃圾分类识别系统，结合深度学习与人机交互，提升垃圾分类效率。",
   "project_content": "1. 参与垃圾分类模型的训练与优化，实现多类别垃圾的自动识别。\n2. 负责界面开发与交互设计，支持实时识别结果展示。\n3. 完成摄像头调用与数据采集，构建端到端的完整识别流程。"
   }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "应届计算机研究生，专注 Java Web 与大模型应用方向，熟悉 Transformer 时间序列预测、LLM 集成及 Spring AI 应用。"
+    "aboutme_desc": "应届计算机研究生，自学Java Web 与大模型应用方向，熟悉 Transformer 时间序列预测、LLM 集成及 Spring AI 应用。"
   },
   "theme": {
     "color": "#2f5785",
