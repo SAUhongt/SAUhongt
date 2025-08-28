@@ -23,20 +23,20 @@
   "educationList": [
     {
       "edu_time": [
-        "2018.09.01",
-        "2022.06.30"
+        "2019.09.01",
+        "2023.06.30"
       ],
-      "school": "某某大学",
-      "major": "软件工程",
+      "school": "沈阳航空航天大学",
+      "major": "计算机科学与技术",
       "academic_degree": "本科"
     },
     {
       "edu_time": [
-        "2022.09.01",
-        "2025.06.30"
+        "2023.09.01",
+        "2026.06.30"
       ],
-      "school": "某某大学",
-      "major": "计算机科学与技术",
+      "school": "沈阳航空航天大学",
+      "major": "电子信息",
       "academic_degree": "硕士"
     }
   ],
@@ -48,12 +48,12 @@
   ],
   "workExpList": [],
   "skillList": [
-  { "skill_name": "Java & Spring Boot & Spring Cloud & MyBatis", "skill_level": null, "skill_desc": null, "dataIndex": 0 },
-  { "skill_name": "Python & Transformer & LLM", "skill_level": null, "skill_desc": null, "dataIndex": 1 },
-  { "skill_name": "Vue & vue-admin-template", "skill_level": null, "skill_desc": null, "dataIndex": 2 },
-  { "skill_name": "MySQL & MongoDB & Redis", "skill_level": null, "skill_desc": null, "dataIndex": 3 },
-  { "skill_name": "LangChain4j & OpenAI API & Spring AI", "skill_level": null, "skill_desc": null, "dataIndex": 4 },
-  { "skill_name": "Git & Docker & Maven & IntelliJ IDEA & Linux", "skill_level": null, "skill_desc": null, "dataIndex": 5 }
+  { "skill_name": "Java & Spring Boot & Spring Cloud & MyBatis", "skill_level": null, "skill_desc": "", "dataIndex": 0 },
+  { "skill_name": "Python & Transformer & LLM", "skill_level": null, "skill_desc": "", "dataIndex": 1 },
+  { "skill_name": "Vue & vue-admin-template", "skill_level": null, "skill_desc": "", "dataIndex": 2 },
+  { "skill_name": "MySQL & MongoDB & Redis", "skill_level": null, "skill_desc": "", "dataIndex": 3 },
+  { "skill_name": "LangChain4j & OpenAI API & Spring AI", "skill_level": null, "skill_desc": "", "dataIndex": 4 },
+  { "skill_name": "Git & Docker & Maven & IntelliJ IDEA & Linux", "skill_level": null, "skill_desc": "", "dataIndex": 5 }
 ],
   "projectList": [
     {
