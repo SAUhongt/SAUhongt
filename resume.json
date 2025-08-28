@@ -13,9 +13,9 @@
     "hidden": true
   },
   "profile": {
-    "name": "张三",
-    "email": "your_email@example.com",
-    "mobile": "+86 138-XXXX-XXXX",
+    "name": "洪涛",
+    "email": "htsrdz@qq.com",
+    "mobile": "+86 198-9600-6815",
     "workExpYear": "应届生"
   },
   "educationList": [
@@ -56,7 +56,7 @@
   "skillList": [
   { "skill_name": "Java & Spring Boot & MyBatis", "skill_level": 80, "skill_desc": "", "dataIndex": 0 },
   { "skill_name": "Python & Transformer & pytorch", "skill_level": 80, "skill_desc": "", "dataIndex": 1 },
-  { "skill_name": "Vue & vue-admin-template", "skill_level": 60, "skill_desc": "", "dataIndex": 2 },
+  { "skill_name": "Vue", "skill_level": 60, "skill_desc": "", "dataIndex": 2 },
   { "skill_name": "MySQL & MongoDB & Redis", "skill_level": 70, "skill_desc": "", "dataIndex": 3 },
   { "skill_name": "LangChain4j & OpenAI API & Spring AI", "skill_level": 80, "skill_desc": "", "dataIndex": 4 },
   { "skill_name": "Git & Maven & IntelliJ IDEA & Linux", "skill_level": 80, "skill_desc": "", "dataIndex": 5 }
@@ -67,14 +67,14 @@
       "project_role": "研究项目",
       "project_time": "2024",
       "project_desc": "基于 Transformer Encoder-Decoder 架构，结合动态特征分解与时间序列建模，实现多任务预测。",
-      "project_content": "1. 引入差分预测与频率建模机制，提升模型在飞行阶段预测与轨迹预测中的精度。\n2. 模型在大规模 QAR 飞行数据集上验证，取得良好效果。"
+      "project_content": "1. 引入差分预测与频率建模机制，提升模型在飞行阶段预测，轨迹预测以及其他飞行参数预测中的精度。\n2. 模型在大规模飞行数据集上验证，取得良好效果。"
     },
     {
-      "project_name": "医养结合养老机构信息管理系统",
-      "project_role": "本科毕业设计",
-      "project_time": "2023",
-      "project_desc": "负责系统整体设计与开发，采用 Spring Boot + MyBatis + MySQL 实现后端。",
-      "project_content": "1. 前端使用 Vue + vue-admin-template 搭建，完成老人、护理人员、机构资源的 CRUD 管理。\n2. 实现用户认证、权限管理、信息统计等功能，提升养老机构管理效率。"
+    "project_name": "智慧养老管理系统",
+    "project_role": "团队项目",
+    "project_time": "2023",
+    "project_desc": "基于 Spring Boot + Vue 的智慧养老信息化平台，实现养老机构日常管理与服务流程优化。",
+    "project_content": "1. 前端基于 Vue 及开源模板 vue-admin-template 进行二次开发，完成老人、护理人员、机构资源的增删改查功能。\n2. 实现用户认证、权限控制与信息统计模块，提升养老机构管理与数据分析效率。\n3. 后端采用 Spring Boot + MyBatis，结合 MySQL 和 Redis，保证系统高效稳定运行。"
     },
     {
       "project_name": "苏拉卡尔塔棋游戏开发",
@@ -95,7 +95,7 @@
   "project_role": "团队项目",
   "project_time": "2021",
   "project_desc": "面向创新创业竞赛的垃圾分类识别系统，结合深度学习与人机交互，提升垃圾分类效率。",
-  "project_content": "1. 参与垃圾分类模型的训练与优化，实现多类别垃圾的自动识别。\n2. 负责界面开发与交互设计，支持实时识别结果展示。\n3. 完成摄像头调用与数据采集，构建端到端的完整识别流程。"
+  "project_content": "1. 参与垃圾分类模型的训练与优化，实现多类别垃圾的自动识别。\n2. 负责界面开发与交互设计，支持实时识别结果展示。\n3. 完成摄像头选取与调用，构建完整识别流程。"
   }
   ],
   "workList": [],
