@@ -81,7 +81,14 @@
       "project_time": "2024",
       "project_desc": "使用 LangChain4j 构建基于大模型的智能客服 Demo。",
       "project_content": "1. 实现基础 RAG（检索增强生成）与对话上下文管理，支持多轮问答。\n2. 集成至 Spring Boot 服务，可扩展至企业客服场景。"
-    }
+    },
+    {
+  "project_name": "垃圾分类识别系统",
+  "project_role": "团队项目",
+  "project_time": "2023",
+  "project_desc": "面向创新创业竞赛的垃圾分类识别系统，结合深度学习与人机交互，提升垃圾分类效率。",
+  "project_content": "1. 参与垃圾分类模型的训练与优化，实现多类别垃圾的自动识别。\n2. 负责界面开发与交互设计，支持实时识别结果展示。\n3. 完成摄像头调用与数据采集，构建端到端的完整识别流程。"
+  }
   ],
   "workList": [],
   "aboutme": {
