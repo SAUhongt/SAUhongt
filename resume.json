@@ -48,22 +48,12 @@
   ],
   "workExpList": [],
   "skillList": [
-  { "skill_name": "Java", "skill_level": "精通", "skill_desc": "用于后端开发、Spring Boot 和 Spring Cloud 架构开发", "dataIndex": 0 },
-  { "skill_name": "Python", "skill_level": "熟练", "skill_desc": "数据分析、Transformer 模型训练及 LLM 调用", "dataIndex": 1 },
-  { "skill_name": "Spring Boot", "skill_level": "精通", "skill_desc": "构建后端服务、REST API 与微服务架构", "dataIndex": 2 },
-  { "skill_name": "Spring Cloud", "skill_level": "熟练", "skill_desc": "微服务注册、配置中心、负载均衡等", "dataIndex": 3 },
-  { "skill_name": "MyBatis", "skill_level": "熟练", "skill_desc": "数据库访问及 ORM 映射", "dataIndex": 4 },
-  { "skill_name": "Vue", "skill_level": "熟练", "skill_desc": "前端开发，熟悉 vue-admin-template 模板", "dataIndex": 5 },
-  { "skill_name": "MySQL", "skill_level": "熟练", "skill_desc": "关系型数据库设计与优化", "dataIndex": 6 },
-  { "skill_name": "MongoDB", "skill_level": "了解", "skill_desc": "非关系型数据库使用与存储结构设计", "dataIndex": 7 },
-  { "skill_name": "Redis", "skill_level": "熟练", "skill_desc": "缓存及高频数据存储方案", "dataIndex": 8 },
-  { "skill_name": "LangChain4j", "skill_level": "熟练", "skill_desc": "LLM 集成与 RAG、AI Agent 构建", "dataIndex": 9 },
-  { "skill_name": "OpenAI API", "skill_level": "熟练", "skill_desc": "调用大模型接口，构建智能客服与生成应用", "dataIndex": 10 },
-  { "skill_name": "Git", "skill_level": "精通", "skill_desc": "版本管理与团队协作", "dataIndex": 11 },
-  { "skill_name": "Docker", "skill_level": "熟练", "skill_desc": "容器化部署与微服务环境", "dataIndex": 12 },
-  { "skill_name": "Maven", "skill_level": "熟练", "skill_desc": "项目管理及依赖构建", "dataIndex": 13 },
-  { "skill_name": "IntelliJ IDEA", "skill_level": "精通", "skill_desc": "主要开发工具", "dataIndex": 14 },
-  { "skill_name": "Linux", "skill_level": "熟练", "skill_desc": "开发与部署环境操作", "dataIndex": 15 }
+  { "skill_name": "Java & Spring Boot & Spring Cloud & MyBatis", "skill_level": 0.9, "skill_desc": "后端开发、微服务架构设计、REST API 实现", "dataIndex": 0 },
+  { "skill_name": "Python & Transformer & LLM", "skill_level": 0.8, "skill_desc": "数据分析、飞行数据预测模型、多任务学习、大模型微调", "dataIndex": 1 },
+  { "skill_name": "Vue & vue-admin-template", "skill_level": 0.8, "skill_desc": "前端开发，养老系统和管理后台实现", "dataIndex": 2 },
+  { "skill_name": "MySQL & MongoDB & Redis", "skill_level": 0.85, "skill_desc": "关系型和非关系型数据库设计、优化及缓存管理", "dataIndex": 3 },
+  { "skill_name": "LangChain4j & OpenAI API & Spring AI", "skill_level": 0.8, "skill_desc": "LLM 集成、RAG、AI Agent 构建及企业客服应用", "dataIndex": 4 },
+  { "skill_name": "Git & Docker & Maven & IntelliJ IDEA & Linux", "skill_level": 0.9, "skill_desc": "版本管理、容器化部署、项目管理和开发环境操作", "dataIndex": 5 }
 ],
   "projectList": [
     {
