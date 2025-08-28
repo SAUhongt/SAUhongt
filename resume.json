@@ -48,12 +48,12 @@
   ],
   "workExpList": [],
   "skillList": [
-  { "skill_name": "Java & Spring Boot & Spring Cloud & MyBatis", "skill_level": null, "skill_desc": "后端开发、微服务架构设计、REST API 实现", "dataIndex": 0 },
-  { "skill_name": "Python & Transformer & LLM", "skill_level": null, "skill_desc": "数据分析、飞行数据预测模型、多任务学习、大模型微调", "dataIndex": 1 },
-  { "skill_name": "Vue & vue-admin-template", "skill_level": null, "skill_desc": "前端开发，养老系统和管理后台实现", "dataIndex": 2 },
-  { "skill_name": "MySQL & MongoDB & Redis", "skill_level": null, "skill_desc": "关系型和非关系型数据库设计、优化及缓存管理", "dataIndex": 3 },
-  { "skill_name": "LangChain4j & OpenAI API & Spring AI", "skill_level": null, "skill_desc": "LLM 集成、RAG、AI Agent 构建及企业客服应用", "dataIndex": 4 },
-  { "skill_name": "Git & Docker & Maven & IntelliJ IDEA & Linux", "skill_level": null, "skill_desc": "版本管理、容器化部署、项目管理和开发环境操作", "dataIndex": 5 }
+  { "skill_name": "Java & Spring Boot & Spring Cloud & MyBatis", "skill_level": null, "skill_desc": "", "dataIndex": 0 },
+  { "skill_name": "Python & Transformer & LLM", "skill_level": null, "skill_desc": "", "dataIndex": 1 },
+  { "skill_name": "Vue & vue-admin-template", "skill_level": null, "skill_desc": "", "dataIndex": 2 },
+  { "skill_name": "MySQL & MongoDB & Redis", "skill_level": null, "skill_desc": "", "dataIndex": 3 },
+  { "skill_name": "LangChain4j & OpenAI API & Spring AI", "skill_level": null, "skill_desc": "", "dataIndex": 4 },
+  { "skill_name": "Git & Docker & Maven & IntelliJ IDEA & Linux", "skill_level": null, "skill_desc": "", "dataIndex": 5 }
 ],
   "projectList": [
     {
