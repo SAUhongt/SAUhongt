@@ -44,12 +44,28 @@
       "award_time": "2020"
     },
     {
+      "award_info": "奖学金 三等奖",
+      "award_time": "2020"
+    },
+    {
       "award_info": "全国大学生计算机博弈大赛 一等奖",
       "award_time": "2021"
     },
     {
       "award_info": "辽宁省创新创新创业大赛 银奖",
       "award_time": "2021"
+    },
+    {
+      "award_info": "奖学金 一等奖",
+      "award_time": "2022"
+    },
+    {
+      "award_info": "奖学金 二等奖",
+      "award_time": "2023"
+    },
+    {
+      "award_info": "奖学金 三等奖",
+      "award_time": "2024"
     }
   ],
   "workExpList": [],
