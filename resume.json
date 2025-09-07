@@ -8,9 +8,10 @@
     "workList": "个人作品",
     "aboutme": "个人评价"
   },
-  "avatar": {
-    "src": "",
-    "hidden": true
+  "avatar":{
+    "src":"https://github.com/SAUhongt/SAUhongt/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250907134845_87_118.jpg",
+    "hidden":false,
+    "shape":"square"
   },
   "profile": {
     "name": "洪涛",
