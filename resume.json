@@ -108,35 +108,35 @@
             "project_role": "研究项目",
             "project_time": "2024",
             "project_desc": "基于 Transformer Encoder-Decoder 架构，结合动态特征分解与时间序列建模，实现飞行阶段、轨迹及关键飞行参数的多任务预测。",
-            "project_content": "1. 设计并引入差分预测与频率建模机制，有效提升模型在不同飞行阶段及参数上的预测精度。\n2. 在大规模飞行数据集上进行模型训练与验证，预测准确率显著提升，为飞行数据分析与智能决策提供可靠支持。\n3. 技术栈：PyTorch、Python、深度学习、时间序列分析。"
+            "project_content": "设计并引入差分预测与频率建模机制提升预测精度，在大规模飞行数据集上验证模型效果显著，技术栈：PyTorch、Python、深度学习、时间序列分析。"
         },
         {
             "project_name": "智慧养老管理系统",
             "project_role": "团队项目",
             "project_time": "2023",
             "project_desc": "基于 Spring Boot + Vue 的智慧养老信息化平台，实现养老机构日常管理与服务流程优化。",
-            "project_content": "1. 负责前端与后端开发，实现老人、护理人员及机构资源的增删改查功能，并优化用户交互体验。\n2. 后端采用 Spring Boot + MyBatis，实现用户认证、权限控制及信息统计模块，系统响应效率和稳定性显著提升。\n3. 系统上线后，养老机构管理效率提升约30%，数据统计和分析流程更加高效。\n4. 技术栈：Java, Spring Boot, MyBatis, Vue.js, Element UI。"
+            "project_content": "负责前后端开发，实现老人、护理人员及机构资源增删改查及用户交互优化，后端采用 Spring Boot + MyBatis 实现认证、权限和信息统计模块，系统效率提升约30%，技术栈：Java, Spring Boot, MyBatis, Vue.js, Element UI。"
         },
         {
             "project_name": "苏拉卡尔塔棋游戏开发",
             "project_role": "团队项目",
             "project_time": "2021",
             "project_desc": "基于 Qt 平台实现图形化棋类游戏，包含棋盘交互与 AI 对弈功能。",
-            "project_content": "1. 负责 Qt 界面实现，包括棋盘绘制、棋子交互与对局控制，保证操作直观、交互流畅。\n2. 参与 AI 对弈模块开发，优化评估函数与决策策略，提升计算机博弈智能。\n3. 项目功能完善、界面友好，最终荣获全国大学生计算机博弈大赛一等奖。\n4. 技术栈：C++, Qt, AI 算法设计。"
+            "project_content": "负责 Qt 界面开发与棋盘交互，参与 AI 对弈模块优化评估函数和决策策略，项目功能完善并获全国大学生计算机博弈大赛一等奖，技术栈：C++, Qt, AI 算法设计。"
         },
         {
             "project_name": "AI 客服系统",
             "project_role": "个人项目",
             "project_time": "2024",
             "project_desc": "使用 LangChain4j 构建智能客服 Demo，实现多轮对话及检索增强生成（RAG）功能。",
-            "project_content": "1. 实现 RAG 与对话上下文管理，支持多轮问答和信息检索。\n2. 集成至 Spring Boot 服务，实现企业级客服场景的快速部署与扩展。\n3. 技术栈：Java, Spring Boot, LangChain4j, NLP。"
+            "project_content": "实现 RAG 与多轮对话管理，支持信息检索并集成至 Spring Boot 服务，可快速部署企业级客服场景，技术栈：Java, Spring Boot, LangChain4j, NLP。"
         },
         {
             "project_name": "垃圾分类识别系统",
             "project_role": "团队项目",
             "project_time": "2021",
             "project_desc": "结合深度学习与人机交互，实现多类别垃圾自动识别，提升分类效率。",
-            "project_content": "1. 参与深度学习模型训练与优化，实现高准确率的多类别垃圾识别。\n2. 负责前端界面与交互设计，实现实时识别结果展示，并完成摄像头调用与数据采集流程。\n3. 构建完整识别流程，为创新创业竞赛提供完整解决方案。\n4. 技术栈：Python, PyTorch, OpenCV, 前端交互设计。"
+            "project_content": "参与深度学习模型训练与优化，实现高准确率识别，负责前端交互设计与摄像头数据采集，构建完整识别流程，技术栈：Python, PyTorch, OpenCV, 前端交互设计。"
         }
     ],
     "workList": [
