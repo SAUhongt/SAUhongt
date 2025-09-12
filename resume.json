@@ -80,7 +80,7 @@
         {
             "skill_name": "Java & Spring Boot & MyBatis",
             "skill_level": null,
-            "skill_desc": "Java / Spring Boot / MyBatis：熟悉分层架构设计，能够实现认证、权限控制、事务管理等常见业务逻辑。\n使用 MyBatis 进行数据持久化，支持动态 SQL 与分页查询，保证高效数据交互。",
+            "skill_desc": "Java / Spring Boot / MyBatis：熟悉分层架构设计，能够实现认证、权限控制、事务管理等常见业务逻辑。\n熟悉 Java 集合体系，理解 Collection 接口相关实现类（List、Set、Queue）及 Map 体系（HashMap、ConcurrentHashMap）底层机制，能够根据业务场景合理选型与优化。\n熟悉 Java 并发编程，理解线程池、锁机制与并发容器的应用。\n了解 Spring 的 IOC 与 AOP 机制，能够在实际项目中灵活使用依赖注入与切面编程。\n使用 MyBatis 进行数据持久化，支持动态 SQL 与分页查询，保证高效数据交互。",
             "dataIndex": 0
         },
         {
