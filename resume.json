@@ -115,7 +115,7 @@
             "project_role": "团队项目",
             "project_time": "2023",
             "project_desc": "基于 Spring Boot + Vue 的智慧养老信息化平台，实现养老机构日常管理与服务流程优化。",
-            "project_content": "负责前后端开发，实现老人、护理人员及机构资源增删改查及用户交互优化，后端采用 Spring Boot + MyBatis 实现认证、权限和信息统计模块，系统效率提升约30%，技术栈：Java, Spring Boot, MyBatis, Vue.js, Element UI。"
+            "project_content": "负责前后端开发，实现老人、护理人员及机构资源增删改查及用户交互优化，后端采用 Spring Boot + MyBatis 实现认证、权限和信息统计模块，技术栈：Java, Spring Boot, MyBatis, Vue.js, Element UI。"
         },
         {
             "project_name": "苏拉卡尔塔棋游戏开发",
