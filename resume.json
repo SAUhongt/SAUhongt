@@ -80,19 +80,19 @@
         {
             "skill_name": "Java & Spring Boot & MyBatis",
             "skill_level": null,
-            "skill_desc": "Java / Spring Boot / MyBatis：熟悉分层架构设计，能够实现认证、权限控制、事务管理等常见业务逻辑。\n熟悉 Java 集合体系，理解 Collection 接口相关实现类及 Map 体系（HashMap、ConcurrentHashMap）底层机制，能够根据业务场景合理选型与优化。\n熟悉 Java 并发编程，理解线程池、锁机制与并发容器的应用。\n了解 Spring 的 IOC 与 AOP 机制，能够在实际项目中灵活使用依赖注入与切面编程。\n使用 MyBatis 进行数据持久化，支持动态 SQL 与分页查询，保证高效数据交互。",
+            "skill_desc": "Java / Spring Boot / MyBatis：熟悉分层架构设计，能够实现认证、权限控制、事务管理等常见业务逻辑\n熟悉 Java 集合体系，理解 Collection 接口相关实现类及 Map 体系（HashMap、ConcurrentHashMap）底层机制，能够根据业务场景合理选型与优化\n熟悉 Java 并发编程，理解线程池、锁机制与并发容器的应用\n了解 Spring 的 IOC 与 AOP 机制，能够在实际项目中灵活使用依赖注入与切面编程\n使用 MyBatis 进行数据持久化，支持动态 SQL 与分页查询，保证高效数据交互。",
             "dataIndex": 0
         },
         {
             "skill_name": "数据库与缓存",
             "skill_level": null,
-            "skill_desc": "MySQL：熟悉索引原理与优化方法，理解 B+ 树索引、联合索引及覆盖索引的应用场景。\n掌握事务的 ACID 特性与隔离级别，理解 MVCC 实现机制，能处理并发一致性问题。\n了解 InnoDB 与 MyISAM 等存储引擎的差异，掌握行锁与表锁的使用场景。\n熟悉数据库日志（redo log、binlog、undo log）在事务与恢复中的作用。\n\nRedis：熟悉常用数据类型（String、Hash、List、Set、ZSet）及其应用场景。\n熟悉持久化机制（RDB、AOF），理解 Redis 单线程模型与事件驱动机制。\n了解内存管理策略与过期淘汰策略，理解缓存穿透、缓存击穿、缓存雪崩等问题出现的原因。\n\nMongoDB：理解文档型数据库的存储结构与 WiredTiger 存储引擎机制。\n掌握集合与文档操作，熟悉 TTL 索引的使用与数据过期处理。\n了解分片集群的架构与路由机制，能应对海量数据的分布式存储需求。",
+            "skill_desc": "MySQL：熟悉索引原理与优化方法，理解 B+ 树索引、联合索引及覆盖索引的应用场景\n掌握事务的 ACID 特性与隔离级别，理解 MVCC 实现机制，能处理并发一致性问题\n了解 InnoDB 与 MyISAM 等存储引擎的差异，掌握行锁与表锁的使用场景\n熟悉数据库日志（redo log、binlog、undo log）在事务与恢复中的作用\nRedis：熟悉常用数据类型（String、Hash、List、Set、ZSet）及其应用场景\n熟悉持久化机制（RDB、AOF），理解 Redis 单线程模型与事件驱动机制\n了解内存管理策略与过期淘汰策略，理解缓存穿透、缓存击穿、缓存雪崩等问题出现的原因\nMongoDB：理解文档型数据库的存储结构与 WiredTiger 存储引擎机制\n掌握集合与文档操作，熟悉 TTL 索引的使用与数据过期处理\n了解分片集群的架构与路由机制，能应对海量数据的分布式存储需求。",
             "dataIndex": 1
         },
         {
             "skill_name": "Transformer &大模型高效微调技术",
             "skill_level": null,
-            "skill_desc": "Transformer 模型/大模型高效微调技术：熟悉基于 PyTorch 的 Transformer 架构，掌握模型的训练、推理与优化流程。\n能根据不同任务需求，对 Transformer 进行结构调整与参数优化。\n熟悉 Prefix Tuning、Prompt Tuning、Adapter Tuning 等 参数高效微调 (PEFT) 原理。\n了解 LoRA、AdaLoRA、QLoRA 等 重参数化方法，适用于大模型在有限资源下的训练与部署。\n理解 MAM Adapter、UniPELT 等 混合微调策略 的设计理念。",
+            "skill_desc": "Transformer 模型/大模型高效微调技术：熟悉基于 PyTorch 的 Transformer 架构，掌握模型的训练、推理与优化流程。能根据不同任务需求，对 Transformer 进行结构调整与参数优化\n熟悉 Prefix Tuning、Prompt Tuning、Adapter Tuning 等 参数高效微调 (PEFT) 原理\n了解 LoRA、AdaLoRA、QLoRA 等 重参数化方法，适用于大模型在有限资源下的训练与部署\n理解 MAM Adapter、UniPELT 等 混合微调策略 的设计理念。",
             "dataIndex": 2
         },
         {
@@ -143,7 +143,7 @@
 
     ],
     "aboutme": {
-        "aboutme_desc": "应届计算机研究生，自学Java Web 与大模型应用方向，熟悉 Transformer 时间序列预测、LLM 集成及 Spring AI 应用。\n更多信息：\n全国大学生计算机博弈大赛一等奖(2020）；奖学金三等奖(2020)；全国大学生计算机博弈大赛一等奖（2021）；辽宁省创新创业大赛银奖（2021）；奖学金一等奖(2022)；国家励志奖学金(2022)；奖学金二等奖(2023)；奖学金三等奖(2024)"
+        "aboutme_desc": "应届计算机研究生，自学Java Web 与大模型应用方向，熟悉 Transformer 时间序列预测、LLM 集成及 Spring AI 应用\n更多信息：\n全国大学生计算机博弈大赛一等奖(2020）；奖学金三等奖(2020)；全国大学生计算机博弈大赛一等奖（2021）；辽宁省创新创业大赛银奖（2021）；奖学金一等奖(2022)；国家励志奖学金(2022)；奖学金二等奖(2023)；奖学金三等奖(2024)"
     },
     "theme": {
         "color": "#2f5785",
