@@ -86,13 +86,13 @@
         {
             "skill_name": "数据库与缓存",
             "skill_level": null,
-            "skill_desc": "MySQL：熟悉索引原理，理解 B+ 树索引、联合索引及覆盖索引的应用场景\n掌握事务的 ACID 特性与隔离级别，理解 MVCC 实现机制\n了解 InnoDB 与 MyISAM 存储引擎的差异，掌握行锁与表锁的使用场景\n熟悉数据库日志在事务与恢复中的作用\nRedis：熟悉常用数据类型及其应用场景\n熟悉持久化机制，理解 Redis 单线程模型与事件驱动机制\n了解内存管理策略与过期淘汰策略，理解缓存穿透、缓存击穿、缓存雪崩等问题出现的原因\nMongoDB：理解文档型数据库的存储结构与 WiredTiger 存储引擎机制\n掌握集合与文档操作，熟悉 TTL 索引的使用与数据过期处理\n了解分片集群的架构与路由机制，能应对海量数据的分布式存储需求。",
+            "skill_desc": "MySQL：熟悉索引原理，理解 B+ 树索引、联合索引及覆盖索引的应用场景\n掌握事务的 ACID 特性与隔离级别，理解 MVCC 实现机制\n掌握行锁与表锁的使用场景\n熟悉数据库日志在事务与恢复中的作用\nRedis：熟悉常用数据类型及其应用场景\n熟悉持久化机制，理解 Redis 单线程模型与事件驱动机制\n了解内存管理策略与过期淘汰策略，理解缓存穿透、缓存击穿、缓存雪崩等问题出现的原因\nMongoDB：理解文档型数据库的存储结构\n掌握集合与文档操作，熟悉 TTL 索引的使用与数据过期处理\n了解分片集群的架构与路由机制，能应对海量数据的分布式存储需求。",
             "dataIndex": 1
         },
         {
             "skill_name": "Transformer &大模型高效微调技术",
             "skill_level": null,
-            "skill_desc": "Transformer 模型/大模型高效微调技术：熟悉基于 PyTorch 的 Transformer 架构，掌握模型的训练、推理与优化流程\n熟悉参数高效微调 (PEFT) 原理\n了解重参数化方法，适用于大模型在有限资源下的训练与部署\n理解混合微调策略 的设计理念。",
+            "skill_desc": "Transformer 模型/大模型高效微调技术：熟悉基于 PyTorch 的 Transformer 架构，掌握模型的训练、推理与优化流程\n熟悉参数高效微调 (PEFT) 原理\n了解重参数化方法\n理解混合微调策略 的设计理念。",
             "dataIndex": 2
         },
         {
@@ -104,46 +104,43 @@
     ],
     "projectList": [
         {
-            "project_name": "多变量飞行数据预测模型",
-            "project_role": "研究项目",
-            "project_time": "2024",
-            "project_desc": "基于 Transformer Encoder-Decoder 架构，结合动态特征分解与时间序列建模，实现飞行阶段、轨迹及关键飞行参数的多任务预测。",
-            "project_content": "设计并引入差分预测与频率建模机制提升预测精度，在大规模飞行数据集上验证模型效果显著，技术栈：PyTorch、Python、深度学习、时间序列分析。"
-        },
-        {
-            "project_name": "智慧养老管理系统",
-            "project_role": "团队项目",
             "project_time": "2023",
-            "project_desc": "基于 Spring Boot + Vue 的智慧养老信息化平台，实现养老机构日常管理与服务流程优化。",
-            "project_content": "负责前后端开发，实现老人、护理人员及机构资源增删改查及用户交互优化，后端采用 Spring Boot + MyBatis 实现认证、权限和信息统计模块，技术栈：Java, Spring Boot, MyBatis, Vue.js, Element UI。"
+            "project_name": "固定翼无人机路径规划与控制",
+            "project_role": "",
+            "project_desc": "基于 MATLAB搭建固定翼无人机仿真环境，构建无动力飞行（引擎失效场景）下的路径规划与控制系统，实现环境建模、智能体训练与性能优化。",
+            "project_content": "负责环境接口设计与动力学建模，构建强化学习智能体，实现状态–动作空间建模与训练流程；探索奖励函数优化与数据归一化方法，提升模型收敛性与稳定性。技术栈：MATLAB, Reinforcement Learning Toolbox, Deep Learning",
+            "dataIndex": 0
         },
         {
             "project_name": "苏拉卡尔塔棋游戏开发",
-            "project_role": "团队项目",
+            "project_role": "",
             "project_time": "2021",
             "project_desc": "基于 Qt 平台实现图形化棋类游戏，包含棋盘交互与 AI 对弈功能。",
-            "project_content": "负责 Qt 界面开发与棋盘交互，参与 AI 对弈模块优化评估函数和决策策略，项目功能完善并获全国大学生计算机博弈大赛一等奖，技术栈：C++, Qt, AI 算法设计。"
-        },
-        {
-            "project_name": "AI 客服系统",
-            "project_role": "个人项目",
-            "project_time": "2024",
-            "project_desc": "使用 LangChain4j 构建智能客服 Demo，实现多轮对话及检索增强生成（RAG）功能。",
-            "project_content": "实现 RAG 与多轮对话管理，支持信息检索并集成至 Spring Boot 服务，可快速部署企业级客服场景，技术栈：Java, Spring Boot, LangChain4j, NLP。"
+            "project_content": "负责 Qt 界面开发与棋盘交互，参与 AI 对弈模块优化评估函数和决策策略，项目功能完善并获全国大学生计算机博弈大赛一等奖，技术栈：C++, Qt, AI 算法设计。",
+            "dataIndex": 2
         },
         {
             "project_name": "垃圾分类识别系统",
-            "project_role": "团队项目",
+            "project_role": "",
             "project_time": "2021",
             "project_desc": "结合深度学习与人机交互，实现多类别垃圾自动识别，提升分类效率。",
-            "project_content": "参与深度学习模型训练与优化，实现高准确率识别，负责前端交互设计与摄像头数据采集，构建完整识别流程，技术栈：Python, PyTorch, OpenCV, 前端交互设计。"
+            "project_content": "参与深度学习模型训练与优化，实现高准确率识别，负责前端交互设计与摄像头数据采集，构建完整识别流程，技术栈：Python, PyTorch, OpenCV, 前端交互设计。",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "智慧养老管理系统",
+            "project_role": "",
+            "project_time": "2023",
+            "project_desc": "基于 Spring Boot + Vue 的智慧养老信息化平台，实现养老机构日常管理与服务流程优化。",
+            "project_content": "负责前后端开发，实现老人、护理人员及机构资源增删改查及用户交互优化，后端采用 Spring Boot + MyBatis 实现认证、权限和信息统计模块，技术栈：Java, Spring Boot, MyBatis, Vue.js, Element UI。",
+            "dataIndex": 3
         }
     ],
     "workList": [
 
     ],
     "aboutme": {
-        "aboutme_desc": "应届计算机研究生，自学Java Web 与大模型应用方向，熟悉 Transformer 时间序列预测、LLM 集成及 Spring AI 应用\n更多信息：\n全国大学生计算机博弈大赛一等奖(2020）；奖学金三等奖(2020)；全国大学生计算机博弈大赛一等奖（2021）；辽宁省创新创业大赛银奖（2021）；奖学金一等奖(2022)；国家励志奖学金(2022)；奖学金二等奖(2023)；奖学金三等奖(2024)"
+        "aboutme_desc": "应届计算机研究生，目前研究内容为飞行数据分析，主要做过民航飞行数据的预测，基于GAN的无人机故障数据增强以及在引擎故障情况下的固定翼无人机路径规划，自学Java Web 与大模型应用方向，熟悉 Transformer 时间序列预测、LLM 集成及 Spring AI 应用\n更多信息：\n全国大学生计算机博弈大赛一等奖(2020）；奖学金三等奖(2020)；全国大学生计算机博弈大赛一等奖（2021）；辽宁省创新创业大赛银奖（2021）；奖学金一等奖(2022)；国家励志奖学金(2022)；奖学金二等奖(2023)；奖学金三等奖(2024)"
     },
     "theme": {
         "color": "#2f5785",
