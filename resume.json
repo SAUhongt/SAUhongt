@@ -84,6 +84,11 @@
             "dataIndex": 0
         },
         {
+            "skill_name": "C/C++/QT",
+            "skill_level": null,
+            "skill_desc": "熟练掌握 C++ 编程，具备扎实的面向对象编程思想，熟悉常用设计模式；熟练使用 STL 标准模板库（包括容器、迭代器、算法等）；了解并能使用 Qt 框架进行图形界面和多线程开发。"
+        },
+        {
             "skill_name": "数据库与缓存",
             "skill_level": null,
             "skill_desc": "MySQL：熟悉索引原理，理解 B+ 树索引、联合索引及覆盖索引的应用场景\n掌握事务的 ACID 特性与隔离级别，理解 MVCC 实现机制\n掌握行锁与表锁的使用场景\n熟悉数据库日志在事务与恢复中的作用\nRedis：熟悉常用数据类型及其应用场景\n熟悉持久化机制，理解 Redis 单线程模型与事件驱动机制\n了解内存管理策略与过期淘汰策略，理解缓存穿透、缓存击穿、缓存雪崩等问题出现的原因\nMongoDB：理解文档型数据库的存储结构\n掌握集合与文档操作，熟悉 TTL 索引的使用与数据过期处理\n了解分片集群的架构与路由机制，能应对海量数据的分布式存储需求。",
@@ -98,7 +103,7 @@
         {
             "skill_name": "LangChain4j & OpenAI API & Spring AI",
             "skill_level": null,
-            "skill_desc": "LangChain4j / Spring AI / OpenAI API:掌握大模型 API 调用与接入方法，支持在 Java 生态中使用大模型能力。能基于 LangChain4j 构建检索增强生成（RAG）流程。实现多轮对话与上下文管理，支持企业内部知识问答。使用向量数据库接入外部知识，提高大模型回答的准确性。将大模型服务嵌入 Spring Boot，形成可扩展的模块。能结合传统系统和大模型，实现智能客服、知识检索等应用场景。",
+            "skill_desc": "LangChain4j / Spring AI / OpenAI API:掌握大模型 API 调用与接入方法，在 Java 生态中使用大模型能力。能基于 LangChain4j 构建检索增强生成（RAG）流程。实现多轮对话与上下文管理，支持企业内部知识问答。使用向量数据库接入外部知识，提高大模型回答的准确性。将大模型服务嵌入 Spring Boot，形成可扩展的模块。能结合传统系统和大模型，实现智能客服、知识检索等应用场景。",
             "dataIndex": 3
         }
     ],
