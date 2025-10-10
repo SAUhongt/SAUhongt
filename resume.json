@@ -129,7 +129,7 @@
             "project_role": "",
             "project_time": "2021",
             "project_desc": "结合深度学习与人机交互，实现多类别垃圾自动识别，提升分类效率。",
-            "project_content": "参与深度学习模型训练与优化，实现高准确率识别，负责前端交互设计与摄像头数据采集，构建完整识别流程，技术栈：Python, PyTorch, OpenCV, 前端交互设计。",
+            "project_content": "参与深度学习模型训练与优化，实现高准确率识别，负责前端交互设计与摄像头数据采集，构建完整识别流程，技术栈：Python, Paddle, OpenCV, 前端交互设计。",
             "dataIndex": 1
         },
         {
